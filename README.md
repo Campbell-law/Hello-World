@@ -81,7 +81,7 @@ Hello World
 msg="Hello World"
 print(msg)
 ```
-* Right click - on Windows duoble click on Mac 
+* Right click - on Windows double click on Mac 
 
 * Select Run Code
 
@@ -90,10 +90,10 @@ print(msg)
 # Put it on Github
 
 * Make sure you have saved everything
-* click the fork button in theupper left of VSCode
+* click the fork button in the upper left of VSCode - below the magnifying glass
 * Enter a commit message => finished Hello World
-* click on the check mark
-* click on the 3 dots beside the  check mark 
+* click on the check mark - right above the message box
+* click on the 3 dots beside the check mark 
 * select push on the drop down
 
 
