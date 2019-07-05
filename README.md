@@ -85,5 +85,19 @@ print(msg)
 
 * Select Run Code
 
-## You did it!utoria
+## You did it!
+
+# Put it on Github
+
+* Make sure you have saved everything
+* click the fork button in theupper left of VSCode
+* Enter a commit message => finished Hello World
+* click on the check mark
+* click on the 3 dots beside the  check mark 
+* select push on the drop down
+
+
+## You are done
+
+
 
