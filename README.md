@@ -18,7 +18,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 
 * type print("Hello World")
 
-```
+```python
 
 >>> print("Hello World")
 Hello World
@@ -32,7 +32,7 @@ Good Job 🎉
 * msg = "Hello World"
 * print(msg)
 
-```
+```python
 
 >>>
 >>> msg = "Hello World"
@@ -41,8 +41,49 @@ Hello World
 >>>
 ```
 
- ## Hello World #3 -- Let's fork it and pull it down
+ ## Hello World #3 
+
+### Let's fork it and pull it down
 
  * Go to => [Hello World](https://github.com/tbrookelaw/Hello-World)
+
  * Push the Fork it Button
- 
+
+ ![alt Fork](fork-it.png)
+
+ * Go to the repository that you created
+ * Find the Clone button
+
+ ![Clone it](clone-it.png)
+
+ * Copy the URL - using https option with the little clipboard)
+
+ ![clone](clone.png)
+
+### Put it in VSCode
+
+  * Use Shift-Command-P (on the Mac) Ctrl-shift-P (On windows)
+    * type git scroll to git:clone
+
+    ![VSCode clone](VSCode-1.png)
+
+  * Paste in the url you copied from github
+
+    ![VSCode clone 2](VSCode-2.png)
+
+## Edit it
+
+* click on the top upper left Icon to view all the files
+* Select Hello.py
+* add:
+
+```python
+msg="Hello World"
+print(msg)
+```
+* Right click - on Windows duoble click on Mac 
+
+* Select Run Code
+
+## You did it!utoria
+
