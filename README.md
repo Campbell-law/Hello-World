@@ -51,6 +51,9 @@ Hello World
 
  ![alt Fork](fork-it.png)
 
+ # To use Git locally besides having VS-Code you must Have  Git to install git go to => [GIT](https://git-scm.com/downloads)<= and follow the instructions to install it.
+
+
  * Go to the repository that you created
  * Find the Clone button
 
@@ -59,6 +62,8 @@ Hello World
  * Copy the URL - using https option with the little clipboard)
 
  ![clone](clone.png)
+
+
 
 ### Put it in VSCode
 
