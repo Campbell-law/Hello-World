@@ -41,8 +41,14 @@ Hello World
 >>>
 ```
 
- ## Hello World #3 
+ ## Hello World #3 Setting up Git 
+___
+ ### To use Git locally besides having VS-Code you must Have  Git to install git go to => [GIT](https://git-scm.com/downloads)<= and follow the instructions to install it.
+ Enter the following from the cmmand line to set up Git:
 
+  git config --global user.name "Emma Paris"
+  
+  git config --global user.email "eparis@atlassian.com"
 ### Let's fork it and pull it down
 
  * Go to => [Hello World](https://github.com/tbrookelaw/Hello-World)
@@ -51,13 +57,6 @@ Hello World
 
  ![alt Fork](fork-it.png)
 
-___
- ### To use Git locally besides having VS-Code you must Have  Git to install git go to => [GIT](https://git-scm.com/downloads)<= and follow the instructions to install it.
- Enter the following from the cmmand line to set up Git:
-
-  git config --global user.name "Emma Paris"
-  
-  git config --global user.email "eparis@atlassian.com"
 ___
 
  * Go to the repository that you created
