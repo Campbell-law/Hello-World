@@ -32,7 +32,7 @@ Good Job 🎉
 * msg = "Hello World"
 * print(msg)
 
-```python
+```python -1
 
 >>>
 >>> msg = "Hello World"
